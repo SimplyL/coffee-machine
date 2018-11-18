@@ -1,0 +1,12 @@
+.engineer-container {
+  padding: 5px;
+  margin-top: 5px;
+  position: relative;
+}
+
+.status {
+  color: #f10f6b;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+};

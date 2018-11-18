@@ -1,0 +1,36 @@
+.controller-container {
+  padding: 10px;
+  margin-bottom: 15px;
+  width: 350px;
+}
+
+.button {
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #ffffff;
+  outline: 0;
+}
+
+.button:hover {
+  color: #ffffff;
+}
+
+.start-button {
+  color: #3080e8;
+  border: 1px solid #3080e8;
+}
+
+.stop-button {
+  color: #b80f0a;
+  border: 1px solid #b80f0a;
+}
+
+.start-button:hover {
+  background-color: #3080e8;
+}
+
+.stop-button:hover {
+  background-color: #b80f0a;
+};

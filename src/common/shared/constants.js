@@ -1,0 +1,3 @@
+export const STATUS_WORKING = 'WORKING';
+export const STATUS_WAITING = 'WAITING';
+export const STATUS_MAKING_COFFE = 'MAKING_COFFE';
